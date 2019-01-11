@@ -20,7 +20,7 @@ class REEEEException(Exception):
 
 
 def express(magnitude: int=5) -> str:
-    magnitude = min(5, magnitude)
+    magnitude = max(5, magnitude)
     return ("r" + ("e" * magnitude)).upper()
 
 
