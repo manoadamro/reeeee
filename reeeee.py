@@ -10,8 +10,8 @@ REEEEEEEEEE
 >>> reeeee.express(15) # absolutely fucking unacceptable
 REEEEEEEEEEEEEEE
 
->>> reeeee.reeeeaise("something fucked up", 5)
-something fucked up REEEEE
+>>> reeeee.reeeeaise("I dun goofed.", 5)
+I dun goofed. REEEEE
 """
 
 
